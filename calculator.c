@@ -19,3 +19,23 @@ void vidnimana(int pervoechislo, int vtoroechislo){
     pervoechislo-=vtoroechislo;
     printf("\n%i\n",pervoechislo);
 }
+void propusk(){
+    printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+printf("\n");
+}
