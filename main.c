@@ -5,9 +5,12 @@
 #include "calculator.h"
 int main()
 {
-int pervi=2;
-int vtori=1;
+float pervi=4.1;
+float vtori=90;
 dodavanie(pervi,vtori);
+mnoshenie(pervi,vtori);
+delenie(pervi,vtori);
+vidnimana(pervi,vtori);
 
 
 
