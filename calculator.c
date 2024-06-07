@@ -13,7 +13,7 @@ void mnoshenie(int pervoechislo, int vtoroechislo){
 }
 void delenie(float pervoechislo, float vtoroechislo){
     pervoechislo/=vtoroechislo;
-    printf("\n%.2f\n",pervoechislo);
+    printf("\n%.5f\n",pervoechislo);
 }
 void vidnimana(int pervoechislo, int vtoroechislo){
     pervoechislo-=vtoroechislo;
